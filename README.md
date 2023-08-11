@@ -12,3 +12,5 @@
 ## Usage
 - You're going to need an [OpenAI](https://platform.openai.com/account/api-keys) key as well as a [Play.ht](https://play.ht/app/api-access) key
 - Here's where you enter all that stuff
+  
+https://github.com/nathanmarcel/your-own-voice-ai/blob/91381d97fb80c08c7db656d9ab710585189b1654/main.py#L7C1-L13C44
