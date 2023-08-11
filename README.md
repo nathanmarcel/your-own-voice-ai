@@ -1,4 +1,5 @@
 # Create your own AI assistant that sounds like whoever you like.
+https://github.com/nathanmarcel/your-own-voice-ai/blob/34d872246aedd2770bebb5aa9587ad550d1ef3c3/main.py#L1C1-L13C44
 
 **All you need is a .mp3 file between 2 seconds to 1 hour of the person/character of interest speaking.**
 
@@ -13,5 +14,4 @@
 - You're going to need an [OpenAI](https://platform.openai.com/account/api-keys) key as well as a [Play.ht](https://play.ht/app/api-access) key
 - Here's where you enter all that stuff
   
-[https://github.com/nathanmarcel/your-own-voice-ai/blob/91381d97fb80c08c7db656d9ab710585189b1654/main.py#L7C1-L13C44
-](https://github.com/nathanmarcel/your-own-voice-ai/blob/91381d97fb80c08c7db656d9ab710585189b1654/main.py#L7C1-L13C44)
+https://github.com/nathanmarcel/your-own-voice-ai/blob/34d872246aedd2770bebb5aa9587ad550d1ef3c3/main.py#L1C1-L13C44
