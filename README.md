@@ -3,7 +3,7 @@
 **All you need is a .mp3 file between 2 seconds to 1 hour of the person/character of interest speaking.**
 
 ## Instructions
-- Add the voice file in the /voices/ folder (I added a couple there already as an example and to use)
+- Add a voice file of whatever person/character you want into the /voices/ folder (I added a couple there already as an example and to use)
 - Check out the usage tab below:
 - Run the main.py script
 - You'll need to create the voices first before you start asking questions
